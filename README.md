@@ -1,1 +1,1 @@
-# DITA-Webhelp-Responsive
+# DITA-HTML-Site
